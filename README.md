@@ -8,7 +8,7 @@ Instagram Account Checker [Detect Info, Followers, Following, Country]
   * Install GIT for Windows
   * Download File di Github (https://github.com/Seenks/yuna-insta.git)
   * Extract File yuna-insta dan masuk ke folder
-  * Klik kanan di folder yuna-spot, pilih "Git Bash Here"
+  * Klik kanan di folder yuna-insta, pilih "Git Bash Here"
   * ls
   * bash insta.sh
 <br/>
