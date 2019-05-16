@@ -16,6 +16,8 @@ Instagram Account Checker [Detect Info, Followers, Following, Country]
 ## WARNING
 	"Tools ini gratis, tidak untuk diperjual belikan!!!"
 	"Untuk isi file txt gunakan delim "email:password" jika tidak tools tidak akan jalan"
+	"Delimeter empass menggunakan ( : ). Ex : username:passna."
+        "Bisa menggunakan email:password, tetapi tidak get info."
 <br/>
 
 ## SPECIAL THANKS TO:
