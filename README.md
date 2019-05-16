@@ -21,6 +21,6 @@ Instagram Account Checker [Detect Info, Followers, Following, Country]
 <br/>
 
 ## SPECIAL THANKS TO:
-  * Code by N4B (Recoded by Yuna)
+  * Code by TC (Recoded by Yuna)
   * API by Instagram
   * SGB TEAM
